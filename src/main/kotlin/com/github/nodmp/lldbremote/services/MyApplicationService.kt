@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nodmp.lldbremote.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nodmp.lldbremote.MyBundle
 
 class MyApplicationService {
 
